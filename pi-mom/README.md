@@ -14,8 +14,8 @@ Or let `mom init` handle it automatically when it detects Pi in your project.
 
 ## Requirements
 
-- [Pi coding agent](https://github.com/mariozechner/pi-coding-agent) installed
-- [MOM](https://github.com/momhq/mom) installed and on PATH
+- [Pi coding agent](https://pi.dev) installed
+- [MOM](https://aksmom.sh) installed and on PATH
 - A `.mcp.json` with a `mom` server entry in your project (created by `mom init`)
 
 ## How it works
