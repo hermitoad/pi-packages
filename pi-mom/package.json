@@ -1,6 +1,6 @@
 {
   "name": "pi-mom",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "MOM native Pi extension — registers MOM tools directly in the Pi coding agent",
   "type": "module",
   "files": [
