@@ -35,4 +35,6 @@ jobs:
         run: npm run build --if-present -w ${{ steps.pkg.outputs.workspace }}
 
       - name: Publish
-        run: npm publish -w ${{ steps.pkg.outputs.workspace }} --provenance --access public
+        run: npm publish -w ${{ steps.pkg.outputs.workspace }} --access public
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
