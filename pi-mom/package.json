@@ -19,11 +19,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vmarinogg/pi-packages.git",
+    "url": "git+https://github.com/hermitoad/pi-packages.git",
     "directory": "pi-mom"
   },
   "bugs": {
-    "url": "https://github.com/vmarinogg/pi-packages/issues"
+    "url": "https://github.com/hermitoad/pi-packages/issues"
   },
-  "homepage": "https://github.com/vmarinogg/pi-packages/tree/main/pi-mom#readme"
+  "homepage": "https://github.com/hermitoad/pi-packages/tree/main/pi-mom#readme"
 }
